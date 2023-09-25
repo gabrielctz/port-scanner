@@ -5,7 +5,7 @@
 
 
 # **Python Port Scanner Informations**
-Cet outil en python vous permettra de voir les ports ouverts sur un NDD/Adresse IP, il fonctionne à l'aide de threads ce qui accélère l'énumération. 
+Cet outil en **pytho**n vous permettra de voir les **ports ouverts** sur un **NDD/Adresse IP**, il fonctionne à l'aide de **threads** ce qui accélère l'énumération. 
 
 **Features of script**
 - threads

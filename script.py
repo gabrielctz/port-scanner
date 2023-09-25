@@ -1,3 +1,6 @@
+# [
+# | @Gabrielctz
+# [
 import os
 try:
     import sys

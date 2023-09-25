@@ -11,7 +11,7 @@ Cet outil en **pytho**n vous permettra de voir les **ports ouverts** sur un **ND
 - threads
 - nmap features (pas tous)
 
-## **🛠️ Requirements / Launch**
+## **🔧 Requirements / Launch**
 
 - [Python 3](https://www.python.org/downloads/)
 
@@ -21,7 +21,7 @@ cd Port-Scanner
 pip3 install -r requirements.txt
 ```
 
-### Then just run the script 🔧
+### 💖 Then just run the script 
 
 `python3 script.py 127.0.0.1 `
 

@@ -21,7 +21,7 @@ cd Port-Scanner
 pip3 install -r requirements.txt
 ```
 
-### Then just run the script 🔧:
+### Then just run the script 🔧
 
 `python3 script.py 127.0.0.1 `
 

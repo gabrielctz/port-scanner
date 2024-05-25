@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Ports Scanner 📶</h1><br>
+<h1 align="center" id="title">📶 Ports Scanner</h1><br>
 
 [![python version](https://img.shields.io/badge/Python-3.10%2B-brightgreen)](https://www.python.org/downloads/)
 [![license](https://img.shields.io/badge/License-GNU-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.fr.html)
